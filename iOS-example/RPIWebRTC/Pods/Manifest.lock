@@ -1,0 +1,16 @@
+PODS:
+  - BRHJoyStickView (2.1.2)
+
+DEPENDENCIES:
+  - BRHJoyStickView (~> 2.1)
+
+SPEC REPOS:
+  trunk:
+    - BRHJoyStickView
+
+SPEC CHECKSUMS:
+  BRHJoyStickView: b332a149579ca5daa878b6bc2322c44bf47d411b
+
+PODFILE CHECKSUM: 38d79ec4c8131f5003741d15609a38a9e5bde1e5
+
+COCOAPODS: 1.8.4
