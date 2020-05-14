@@ -1,8 +1,6 @@
 # rpi-webrtc-streaming-to-ios
 Streaming h264 from Camera of RPI to iOS devices via WebRTC
 
-[中文版README連結](README-tw.md)
-
 ## RPi side
 
 Below steps verified on 'RPi Camera module v1.3' with 'RPi 3 model B+' and 'RPi Zero W', running *Raspbian Stretch*
